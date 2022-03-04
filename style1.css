@@ -1,0 +1,19 @@
+/* .container{background-color: green;
+
+} */
+/*      commented text */
+
+#header-container {
+    background-color:#35424a;
+    margin:0px;
+    padding:0px
+    ;}
+#header-highlight {color: #e8491d
+    ;}
+    
+body{
+    margin:0px;
+    padding:0px;
+    background-color: blue;
+}
+
